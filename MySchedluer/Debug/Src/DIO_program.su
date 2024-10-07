@@ -1,0 +1,7 @@
+DIO_program.c:18:6:MGPIO_VidSetPinDirection	16	static
+DIO_program.c:72:6:MGPIO_VidSetPinValue	16	static
+DIO_program.c:113:6:MGPIO_u8GetPinValue	24	static
+DIO_program.c:154:6:MGPIO_VidSetPortDirection	16	static
+DIO_program.c:185:6:MGPIO_VidSetPortValue	16	static
+DIO_program.c:215:5:MGPIO_u16GetPortValue	24	static
+DIO_program.c:251:6:MGPIO_VidTogglePin	16	static

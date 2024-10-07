@@ -1,0 +1,4 @@
+RCC_program.c:15:6:MRCC_VidInit	16	static
+RCC_program.c:171:6:MRCC_VidEnablePeripheralClock	16	static
+RCC_program.c:185:6:MRCC_VidDisablePeripheralClock	16	static
+RCC_program.c:201:6:MRCC_voidSetADCPrescaler	16	static
